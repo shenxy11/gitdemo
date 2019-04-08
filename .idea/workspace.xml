@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ba6fcb2-cdf1-45f5-9b42-abad9af33d57" name="Default Changelist" comment="" />
+    <list default="true" id="7ba6fcb2-cdf1-45f5-9b42-abad9af33d57" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Example.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,12 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Example.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-              <folding>
-                <element signature="e#53#54#0" expanded="true" />
-                <element signature="e#74#75#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="93">
+              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -38,6 +36,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -52,6 +53,7 @@
     <option name="width" value="1497" />
     <option name="height" value="963" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -86,7 +88,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554690489660" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554690866768" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -115,12 +117,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554690355732</updated>
-      <workItem from="1554690363922" duration="125000" />
+      <workItem from="1554690363922" duration="500000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125000" />
+    <option name="totallyTimeSpent" value="500000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -165,12 +167,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Example.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          <folding>
-            <element signature="e#53#54#0" expanded="true" />
-            <element signature="e#74#75#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="93">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
